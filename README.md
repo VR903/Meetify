@@ -1,6 +1,6 @@
-# Zoom Clone
+# Meetify
 
-Zoom Clone that works on Android & iOS! 
+Meeting app that works on Android & iOS! 
 
 ## Features
 1. Google Sign In
@@ -16,25 +16,4 @@ Zoom Clone that works on Android & iOS!
 11. Screen Share
 12. Chat
 13. Switch Front/Rear Camera
-14. Picture in Picture
-15. Enter Tile View
-16. Disable Camera
-17. End Call
-18. See Your Meeting History
-19. Log out
-
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/sMA1dKbv33Y) 
-
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-zoom-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
-
-## Tech Used
-**Server**: Firebase Auth, Firestore, Google Sign In, Jitsi Meet
-**Client**: Flutter
-    
-## Feedback
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
 
