@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:zoom_clone_tutorial/resources/firestore_methods.dart';
-import 'package:zoom_clone_tutorial/utils/colors.dart';
+import 'package:meet/resources/firestore_methods.dart';
+import 'package:meet/utils/colors.dart';
 import 'package:intl/intl.dart';
 
 class HistoryMeetingScreen extends StatelessWidget {
